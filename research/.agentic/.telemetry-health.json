@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-10-11T20:05:52.690Z",
+  "targets": {
+    "writeContextShard": {
+      "failures": 0,
+      "last_success": "2026-10-11T20:05:52.360Z",
+      "last_error": null,
+      "last_error_ts": null
+    },
+    "writeContextMd": {
+      "failures": 0,
+      "last_success": "2026-10-11T20:05:52.362Z",
+      "last_error": null,
+      "last_error_ts": null
+    },
+    "writeSessionTotal": {
+      "failures": 0,
+      "last_success": "2026-10-11T20:05:52.363Z",
+      "last_error": null,
+      "last_error_ts": null
+    },
+    "writePendingBuffer": {
+      "failures": 0,
+      "last_success": "2026-10-11T20:05:52.685Z",
+      "last_error": null,
+      "last_error_ts": null
+    }
+  }
+}
